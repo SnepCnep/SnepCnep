@@ -9,4 +9,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love pizza ;)
 
 - Projects Status
+
 [![SnepBot](https://github.com/SnepCnep/DiscordBot/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/SnepCnep/DiscordBot/actions/workflows/node.js.yml)
