@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 
 #### Projects Status
 
-[![SnepBot](https://github.com/SnepCnep/DiscordBot/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/SnepCnep/DiscordBot/actions/workflows/node.js.yml)
+[![SnepBot](https://github.com/SnepCnep/DiscordBot/actions/workflows/nodetester-main.js.yml/badge.svg)](https://github.com/SnepCnep/DiscordBot/actions/workflows/nodetester-main.js.yml)
