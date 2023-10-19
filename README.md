@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning ( JS, Lua, Html, PHP and CSS )
 - 📫 How to reach me: Discord - SnepCnep
 - 😄 Pronouns: He/Him
