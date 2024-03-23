@@ -1,4 +1,3 @@
-<h1 align="center">Hey, Ik ben Tijmen</h1>
 <h3 align="center">Hallotjes, Ik ben een Jr, Software Developer uit Nederland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snepcnep&label=Profile%20views&color=0e75b6&style=flat" alt="snepcnep" /> </p>
