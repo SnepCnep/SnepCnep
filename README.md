@@ -19,7 +19,7 @@
 ## Projecten
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 20px;">
-    <div>
+    <div style="grid-column: 1;">
         <h4>FiveM</h4>
         <ul>
             <li>SafeTrigger __(standalone)__</li>
@@ -27,7 +27,7 @@
             <li>DrugsVerkoop __(ox/esx)__</li>
         </ul>
     </div>
-    <div>
+    <div style="grid-column: 2;">
         <h4>FiveM - Still in development</h4>
         <ul>
             <li>DrugsLab __(ox/esx)__ __(developement)__</li>
@@ -35,10 +35,11 @@
             <li>HouseRobbery __(ox/esx)__ __(development)__</li>
         </ul>
     </div>
-    <div>
+    <div style="grid-column: 3;">
         <h4>Websites</h4>
         <ul>
             <li>...</li>
         </ul>
     </div>
 </div>
+
