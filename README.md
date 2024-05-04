@@ -18,8 +18,27 @@
 
 ## Projecten
 
-### FiveM
-- SafeTrigger __(standalone)__
-- AntiEntite __(standalone)__
-- DrugsVerkoop __(ox/esx)__
-- StaffDuty __(standalone)__
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 20px;">
+    <div>
+        <h4>FiveM</h4>
+        <ul>
+            <li>SafeTrigger __(standalone)__</li>
+            <li>AntiEntite __(standalone)__</li>
+            <li>DrugsVerkoop __(ox/esx)__</li>
+        </ul>
+    </div>
+    <div>
+        <h4>FiveM - Still in development</h4>
+        <ul>
+            <li>DrugsLab __(ox/esx)__ __(developement)__</li>
+            <li>GcPhone __(ox/esx)__ __(rework/development)__</li>
+            <li>HouseRobbery __(ox/esx)__ __(development)__</li>
+        </ul>
+    </div>
+    <div>
+        <h4>Websites</h4>
+        <ul>
+            <li>...</li>
+        </ul>
+    </div>
+</div>
