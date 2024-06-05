@@ -16,30 +16,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/snepcnep"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="snepcnep" /></a></p><br><br>
 
-## Projecten
-
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 20px;">
-    <div style="grid-column: 1;">
-        <h4>FiveM</h4>
-        <ul>
-            <li>SafeTrigger __(standalone)__</li>
-            <li>AntiEntite __(standalone)__</li>
-            <li>DrugsVerkoop __(ox/esx)__</li>
-        </ul>
-    </div>
-    <div style="grid-column: 2;">
-        <h4>FiveM - Still in development</h4>
-        <ul>
-            <li>DrugsLab __(ox/esx)__ __(developement)__</li>
-            <li>GcPhone __(ox/esx)__ __(rework/development)__</li>
-            <li>HouseRobbery __(ox/esx)__ __(development)__</li>
-        </ul>
-    </div>
-    <div style="grid-column: 3;">
-        <h4>Websites</h4>
-        <ul>
-            <li>...</li>
-        </ul>
-    </div>
-</div>
-
