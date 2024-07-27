@@ -15,8 +15,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/snepcnep"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="snepcnep" /></a></p><br><br>
-
-## Planning (FiveM)
-1. GcPhone ( Rework )
-2. AntiCheat
-3. AntiKofferBak
