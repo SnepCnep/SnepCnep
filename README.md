@@ -1,9 +1,5 @@
 # 👋 Hi, welcome to my profile!
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/630029784302485524)](https://discord.com/users/630029784302485524)
-
----
-
 ### 💻 Tech Stack
 **Experienced in:**
 - MySQL, Prisma, JavaScript, TypeScript, Lua, PHP, CSS, HTML, Tailwind, Node.js
