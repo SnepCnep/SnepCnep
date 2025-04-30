@@ -1,7 +1,4 @@
 # 👋 Welcome to my GitHub!
-
-I'm a passionate **full-stack developer** with a strong focus on modern web technologies, backend systems, and real-time game integrations.
-
 ---
 
 ## 🔭 What I'm Working On
