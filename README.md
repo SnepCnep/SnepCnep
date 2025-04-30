@@ -4,8 +4,6 @@
 ## 🔭 What I'm Working On
 
 - 🔧 **Developer at [Springbank](#)**
-- 🧩 **Developer at [Next Scripts](#)**
-- 🚀 **Founder of [Next AC](#)**
 
 ---
 
