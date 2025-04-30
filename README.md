@@ -1,4 +1,6 @@
-# 👋 Olla welcome! 😜
+# 👋 Welcome to my GitHub!
+
+I'm a passionate **full-stack developer** with a strong focus on modern web technologies, backend systems, and real-time game integrations.
 
 ---
 
@@ -10,20 +12,29 @@
 
 ---
 
+## 🎓 Education
+
+- 🎓 **HBO Cyber Security** — *Working (2025 - Unkown)*  
+- 🧑‍💻 **MBO Software Developer niveau 4** — *Completed (2022–2025)*
+
+---
+
 ## 💼 About Me
 
 - 🌍 Based in the Netherlands  
 - 📈 Always learning, always building  
-- 💡 I love creating tools, scripts, and platforms that improve user experiences and automate workflows
+- 💡 I love creating tools, scripts, and platforms that improve user experiences and automate workflows  
+- 🧠 Interested in security, infrastructure, and scalable systems
 
 ---
 
 ## 💻 Tech Stack
 
 ### ⚙️ **Languages & Tools**
-- **Working with:**  
-  `MySQL`, `Prisma`, `JavaScript`, `TypeScript`, `Lua`, `PHP`, `HTML`, `CSS`, `Tailwind CSS`, `Node.js`
-- **Learning:**  
+
+- **Expertise in:**  
+  `JavaScript`, `TypeScript`, `Lua`, `PHP`, `MySQL`, `Prisma`, `HTML`, `CSS`, `Tailwind CSS`, `Node.js`
+- **Currently exploring:**  
   `Python`, `React`, `C#`
 
 ---
@@ -38,7 +49,7 @@
 
 ## 🔗 Let's Connect
 
-- 🌐 [Website coming soon]
+- 🌐 [Personal website — coming soon]  
 - 📫 Discord: SnepCnep
 
 ---
