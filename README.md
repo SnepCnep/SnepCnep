@@ -3,7 +3,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snepcnep&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true)
+![GitHub Stats](https://streakstats.vercel.app/api?username=snepcnep&show=reviews,prs_merged_percentage&show_icons=true&hide=contribs,prs,issues&include_all_commits=true&theme=dark#gh-dark-mode-only)
 
 ---
 
