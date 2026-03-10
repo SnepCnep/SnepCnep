@@ -9,7 +9,7 @@
 
 ## 🔗 Let's Connect
 
-- 🌐 [Personal website — coming soon]  
+- 🌐 https://snepcnep.nl/
 - 📫 Discord: SnepCnep
 
 ---
